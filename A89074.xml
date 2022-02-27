@@ -1,0 +1,631 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius propheticus. Or, -a collection of some old predictions O! May they only prove, but empty fictions. Consensu populi regnum subsistit. That Kingdome will establisht be wherein the people well agree.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89074</idno>
+            <idno type="STC">Wing M1769</idno>
+            <idno type="STC">Thomason E33_19</idno>
+            <idno type="STC">ESTC R15806</idno>
+            <idno type="EEBO-CITATION">99859923</idno>
+            <idno type="PROQUEST">99859923</idno>
+            <idno type="VID">112025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89074)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112025)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E33[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius propheticus. Or, -a collection of some old predictions O! May they only prove, but empty fictions. Consensu populi regnum subsistit. That Kingdome will establisht be wherein the people well agree.</title>
+                  <author>Shipton, Mother (Ursula)</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, M.DC.XLIII. [1643, i.e.1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112025:1" rendition="simple:additions"/>
+            <p>Mercurius Propheticus. <hi>OR,</hi> —A Collection of ſome old Predictions. <hi>O!</hi> —May they only prove, but empty fictions.</p>
+            <q>
+               <l>
+                  <hi>Conſenſu populi regnum ſubſiſtit.</hi>
+               </l>
+               <l>That Kingdome will eſtabliſht be</l>
+               <l>Wherein the people well agree.</l>
+            </q>
+            <p>Printed in the Yeere, M.DC.XLIII.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:112025:2"/>
+            <head>The Preface.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entlemen! Some of theſe Collections are well known to have ſeen printed many yeares agoe; others I have heard when I did give as little credit to them as to old wives tales; yet for as much as they all agree in very many particulars; and have all of them been of longer ſtanding in mans memory then my great Grandfather, in whoſe dayes they were frequent: and further, ſince they all do ſpeake ſo directly of the preſent times as if they had but now been minted; they doe, I muſt confeſſe, a little take upon my feare, who am as far from ſu<g ref="char:EOLhyphen"/>perſtition as any man alive can be; whence it is, that I held them worthy your conſiderations; whether you beleeve them to have the leaſt affinity to Propheſies or not, which you know muſt needes be true, becauſe they ſpring from the Fountaine of Truth it ſelf; And if you thinke they ſavour of verity, O then reflect, for Heavens ſake, what a lamentable condition England ſhall be in, when ſhe becomes the ſubject verifying every tittle of thoſe dreadfull times that theſe Predictions doe delineate; I ſhall onely, upon this occaſion, take the boldneſſe to inſert one truth, if not a Prophecy, which I am ſure is as true, as that our Saviour Jeſus Chriſt is God, as well as man, a truth no Chriſtian dares deny.</p>
+            <q>
+               <bibl>Lucae. <hi>11.</hi> v. <hi>17.</hi>
+               </bibl> 
+               <hi>Omne Regnum in ſeipſum diviſum deſolabitur, &amp; domus ſupra domum cadet.</hi>
+            </q>
+            <p>And as true it is that England ſtands now divided, as that diviſion in a Kingdome is the infallible deſolation thereof. This preſent inevitable truth makes me ſuſpect
+<pb facs="tcp:112025:3"/>a ſhrewd ayme at the preſent times, in theſe other predicti<g ref="char:EOLhyphen"/>ons, but abſtracting from them, and inſiſting onely upon this that is undoubted; Tell me Gentlemen, if deſolation or to have your own houſes fall upon your heads, be the things that any of you aym at, who do promote the preſent diviſions: No, you all flatter your ſelves (no doubt) of ſeeing this a flouriſhing Kingdom by the bargaine; is not this groſſe flat<g ref="char:EOLhyphen"/>tery indeed, when he that cannot lye tells you, Deſolation muſt be the ſad event of your diviſions? who ſo denyes this, muſt be like the ſtupid Gentiles, that had eyes, and would not ſee, eares and would not heare, hands and would not feel.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>As therefore none, for deſolation fight,</hi>
+                  </l>
+                  <l>
+                     <hi>Pleaſe all, for conſolation to unite.</hi>
+                  </l>
+                  <l>
+                     <hi>Since, till united, theſe predictions are</hi>
+                  </l>
+                  <l>
+                     <hi>Of your deſtruction, Truth's Oracular.</hi>
+                  </l>
+               </lg>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112025:3"/>
+            <head>MOTHER SHIPTONS <hi>PROPHECY.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hen ſhe heard that Cardinall</hi> Wolſev <hi>intend<g ref="char:EOLhyphen"/>ed to live at Yorke,
+<note place="margin">Note that this Proph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cy was never exactly printed before.</note> ſhe ſaid that the Cardinall ſhould never come thither, which the Cardi<g ref="char:EOLhyphen"/>nal hearing of, was angry, and deſired the King to ſend the Duke of Suffolke, Lord</hi> Peircy <hi>and Lord</hi> Darcy <hi>to her, who came with their men diſguiſed to the King-houſe neer Yorke, where leaving their men, they went to Maſter</hi> Beaſly <hi>to York, and deſired him to goe with them to Mother</hi> Shiptons <hi>houſe, where when they came, they knocked at the doore, and ſhee ſaid, Come in Maſter</hi> Beaſly, <hi>and thoſe Honourable Lords with you; and Maſter</hi> Beaſly <hi>would have put in the Lords before him; but ſhe ſaid, Come in Maſter</hi> Beaſty, <hi>you know the way, but they doe not. This they thought ſtrange, that ſhe ſhould know them, and never ſaw them. Then they went into the houſe, where there was a great fire, and ſhée bade them welcome, calling them all by their names, and ſent for ſome Cakes and Ale, and they dranke and were very merry. Mother</hi> Shipton, <hi>ſaid the Duke, if you knew what we came about, you would not bid us ſo welcome; and ſhe ſaid the meſſenger ſhould not be hanged. Mother</hi> Shipton, <hi>ſaid the Duke, you ſaid, the Cardinall ſhould never ſee York; Yea, ſaid ſhe, I ſaid he might ſée York, but never come at it:
+<pb n="2" facs="tcp:112025:4"/>But, ſaid the Duke, when he comes to York thou ſhalt be burnt: We ſhall ſee that, ſaid ſhe, and plucking her kerchief off her head, ſhe threw it into the fire and it would not burn: then ſhe took her ſtaffe and turned it in the fire, and it would not burn: then ſhe took it and put it on againe. Then ſaid the Duke, What meane you by this? She replyed, If this had burned, I might have burned.</hi>
+            </p>
+            <p>
+               <hi>Mother</hi> Shipton <hi>quoth the Duke, what think you of mée? My Lord, ſaid ſhe, the time will come, you
+<note n="(a)" place="margin">The Duke was <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> will be as low as I am, and that is a low one indeed.</hi>
+            </p>
+            <p>
+               <hi>My Lord</hi> Peircy <hi>ſaid, And what ſay you of me? my Lord ſaid ſhe, ſhooe your horſe in the quick, and you will do well, if not, your
+<note n="(b)" place="margin">This pro<g ref="char:EOLhyphen"/>ved true, for he roſe in re<g ref="char:EOLhyphen"/>bellion in the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> when he migh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, he was taken and beheaded at York, wher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his body was bury<g ref="char:EOLhyphen"/>ed; but his head was ſtoln away and carryed into France, <gap reason="illegible" resp="#UOM" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap>.</note> body will be buried in York pavement, and your head ſhall be ſtolne from the bar and carried into France, at which they all laughed, ſaying, that would be a great lop betwirt the head and the body.</hi>
+            </p>
+            <p>
+               <hi>Then ſaid the Lord</hi> Darcy, <hi>And what think you of me? She ſaid you have made a great gun, ſhoot it off, for it will do you no good, you are going to warfare, you will pyne many a man, but you will kill none; ſo they went away.</hi>
+            </p>
+            <p>
+               <hi>Not long after the Cardinall came to Cawood, and going to the top of the Tower, he asked where York was, and how far it was thither, and ſaid, that one ſaid, he ſhould never ſee Yorke, nay ſaid one that ſtood by, ſhe ſaid you ſhould ſée York but never come at it, then he vowed to burne her, when he came to Yorke, then they ſhewed him Yorke and told him it was but eight miles thence, he ſaid he would ſoone be there, but being ſent for by the King, he died in the way to London, at Leiceſter of a Lask.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Shiptons <hi>wife ſaid to Mr</hi> Beaſly, <hi>yonder is a fine ſtall built for the Cardinall in the Minſter, of Gold, Pearle and precious ſtones, goe and preſent one of the pillars to King</hi> Henry, <hi>and he did ſo.</hi>
+            </p>
+            <p>
+               <hi>Maſter</hi> Beaſly <hi>ſeeing theſe things fall out as ſhe had fore<g ref="char:EOLhyphen"/>told, deſired her to tell him ſome more of her propheſies.</hi>
+            </p>
+            <pb n="3" facs="tcp:112025:4"/>
+            <p>
+               <hi>Maſter</hi> Beaſly <hi>ſaid ſhe, before that
+<note n="(c)" place="margin">This came to paſſe, for Trinity ſteeple in York was blowne downe with a tempeſt, and Owſe Bridge was broken downe with a great flood; and what they did in repairing the Bridge in the day time with the ſtone of the Steeple, fell downe in the night, untill they (remembring this Prophecy) layd the higheſt ſtone of the Steeple, for the foundation of the bridge; and then the work ſtood. And by this was partly verified another of Mo<g ref="char:EOLhyphen"/>ther <hi>Shiptons</hi> Prophecies, (<hi>viz.</hi>) That her maid ſhould live to drive her Cowe over Tri<g ref="char:EOLhyphen"/>nity Steeple.</note> Owſe bridge and Tri<g ref="char:EOLhyphen"/>nity Church meet, they ſhall build in the day, and it ſhall fall in the night, untill they get the higheſt ſtone of Trinity Church to be the loweſt ſtone of Owſe bridge.</hi>
+            </p>
+            <p>
+               <hi>Then the day will come that Hares ſhall kennel on cold hearth
+<note n="(d)" place="margin">Suppoſed to be meant by the ſuppreſſion of Abbies and other Religious Houſes. And at the Lord <hi>William Howards</hi> houſe at Naworth, a Hare came and kinnelld in his Kitchin upon the hearth.</note> ſtones, &amp; lads ſhall marry Ladies, and bring them to their homes. A joyful day will be ſéen in England, a King and a Queen.</hi>
+            </p>
+            <p>
+               <hi>The firſt coming in of the King
+<note n="(e)" place="margin">This was fulfilled in K. <hi>James</hi> his com<g ref="char:EOLhyphen"/>ming in, for ſuch a multi<g ref="char:EOLhyphen"/>tude of people ſtood at Holgate Bar to behold him, as that to avoid the preaſe he was forced to ride by another way.</note> of Scots ſhall be at Holgate Towne, but he ſhall not come through the bar. And when the King
+<note n="(f)" place="margin">When King <hi>James</hi> was at London, his children were at Edenborough, preparing to come into England.</note> of the North ſhall be at London bridge, his tayle ſhall be at Edenborough.</hi>
+            </p>
+            <p>
+               <hi>Water
+<note n="(g)" place="margin">This is ve<g ref="char:EOLhyphen"/>rifyed by the conducting of water into York ſtreets, through boared Elmes: And the Conduit-houſe hath a Windmill on the top that draws up the water.</note> ſhall come over Owſe bridge, and a windmyll ſhall be ſet on a Tower, and an Elme frée ſhall lye at every mans door.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>At that day</hi> —</l>
+               <l>
+                  <hi>Women ſhall wear great hats and great bands.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>When there is a Lord Major
+<note n="(h)" place="margin">A Lord Mayor whoſe houſe was in Mynſter-Yard in YORK, was killed with three ſtables.</note> living in Minſter yard in York, let him beware of a ſtab.</hi>
+            </p>
+            <pb n="4" facs="tcp:112025:5"/>
+            <p>
+               <hi>When two knights
+<note n="(i)" place="margin">Sir <hi>Thomas Wentworth</hi> and Sir <hi>John Sa<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>l</hi> in chooſing Knights for the Shire in the Caſtle-yard at York, did ſo fall out, that they were never after well reconciled.</note> ſhall fall out in the Caſtle yard, they ſhall never live kindly all their lives after.</hi>
+            </p>
+            <p>
+               <hi>When all Colton
+<note n="(k)" place="margin">Colton <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g in her time was a Woodland ground full of trees, which bore corne ſeven yeeres, and the ſeventh yeere after that was the yeere of the comming in of the Scots, and their taking of New-caſtle.</note> hag hath borne Crops of Corne ſeven yeares, ſeven yeares after you ſhall hear newes.</hi>
+            </p>
+            <p>
+               <hi>There ſhall two Iudges
+<note n="(l)" place="margin">In the yeer 16 <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Jud<g ref="char:EOLhyphen"/>ges of Aſſize went out at a gate in York, where never any Judges were known to go out before or ſince.</note> go in and out at Walmgate bar. The day will come,</hi>
+               <q>
+                  <l>The North ſhall rue it wondrous ſore,</l>
+                  <l>But the South ſhall rue it for evermore.</l>
+                  <l>When Wars ſhall begin in the ſpring,</l>
+                  <l>Much wo to England it will bring:</l>
+                  <l>Then ſhall the Ladies cry well-a-day,</l>
+                  <l>That ever we liv'd to ſee this day.</l>
+                  <l>Then beſt for them that have the leaſt,</l>
+                  <l>And worſt for them that have the moſt.</l>
+               </q>
+            </p>
+            <p>
+               <hi>You ſhall have a yeare of pining hunger, and then a dearth without corne. You ſhall not know of the war over night, yet you ſhall have it in the morning, and when it comes it ſhall laſt three yeares.</hi>
+            </p>
+            <q>
+               <l>Between <hi>Codran</hi> and <hi>Are,</hi>
+               </l>
+               <l>Shall be great warfare:</l>
+               <l>When all the world is aloft,</l>
+               <l>It ſhall be called Chriſts croft.</l>
+            </q>
+            <p>
+               <hi>When the battell of warfare begins, it ſhall be where
+<note n="(m)" place="margin">Neer Lei<g ref="char:EOLhyphen"/>ceſter, where <hi>Richard</hi> the third was ſlaine in battell, there Colonel <hi>Haſtings</hi> was one of the firſt in arms, endeavouring to ſettle the Commiſſion of Array, in oppoſition to others that were then ſet<g ref="char:EOLhyphen"/>ling the Militia.</note> Crookback</hi> Richard <hi>made his fray.</hi>
+            </p>
+            <pb n="5" facs="tcp:112025:5"/>
+            <p>
+               <hi>They ſhall ſay to warfare for your King for half a Crowne a day, but ſtir not. They will ſay to warfare for your King on paine of hanging, but ſtir not,</hi>
+               <q>
+                  <l>For he that goes to complaine,</l>
+                  <l>Shall not come back again.</l>
+               </q>
+            </p>
+            <p>
+               <hi>The time will come when England ſhall tremble and quake for feare of a dead man, that ſhall be heard to ſpeake, Then will the Dragon give the Bull a great ſnay, And when this battaile is done, they will all go to London town.</hi>
+            </p>
+            <p>
+               <hi>There will be a great battell betwéen England and Scotland, and they will be pacified for a time, and when they come at Braman more they fight, and are again pacified for a time, then there will be a great battell betwéen England and Scotland at Knaveſmore, then they will be pacified for a while, then there will be a great battaile betwéen Eng<g ref="char:EOLhyphen"/>land and Scotland at Storcktonmore, then will Kavens ſit on the
+<note n="(n)" place="margin">It is to be noted &amp; ad<g ref="char:EOLhyphen"/>mired, that this Croſſe in the North in Mother <hi>Shiptons</hi> dayes, was a tall ſtone Croſſe, which ever ſince hath been by de<g ref="char:EOLhyphen"/>grees ſinking into the ground, and now is ſunk ſo low, that a Raven may ſit upon the top of it, and reach her bill to the ground.</note> Croſſe &amp; drink as much blood of Nobles as of the Commons, then wo is me for London ſhall be deſtroyed for ever after.</hi>
+            </p>
+            <p>
+               <hi>Then will come a woman with one eye, and ſhe ſhall tread in many mens bloods to the knée, and ſhe ſhall méet a man leaning on a ſtaffe, and ſhall ſay to him, what art thou? and he ſhall ſay, I am King of the Scots, and ſhe ſhall ſay, go with me to my houſe, for there are three Knights, and he will go with her, and ſtay there three dayes and three nights, then will England be loſt, and they will cry twice in one day, England is loſt. Then there will be three Knights in Petergate in Yorke, and the one ſhall not know of the o<g ref="char:EOLhyphen"/>ther, there ſhall be a child borne in Pomfret with three thumbs, and theſe three Knights will give their horſes to
+<pb n="6" facs="tcp:112025:6"/>this
+<note n="(o)" place="margin">There is a child not many yeers ſince born at Pomfrait with 3 thumbs.</note> child (with three thumbes to hold, whileſt they win England again, then come in clubs and clouted ſhooes, and they with the three Knights win England again, and all noble blood ſhall be gone but one, and they ſhall carry him to Sherif</hi> Huttons <hi>Caſtle ſix miles from York, and he ſhall dye there, and they ſhall chooſe their Earle in the feild, and hang their horſes on a thorne, and rue the time that ever they were borne, to ſee ſo much blood ſhed.</hi>
+            </p>
+            <p>
+               <hi>Then they will come to York to beſeige it, and they ſhall keep them out for three dayes and three nights, and a penny loaf ſhall be within the bar at half a Crowne, and without the bar at a penny, and they will ſwear if they will not yéeld to blow up the towne walls: Then they will let them in, and they will hang up the Major, Sherifs and Aldermen; there will three Knghts go in to Crouch Church, and but one of them come out again, and he will cauſe Proclamation to be made, that any man may take houſe, tower, or bower for</hi> 21. <hi>yeares, and while the world endureth there ſhall never be warfare again, nor any more Kings or Quéenes, but the Kingdome ſhall be governed by three Lords, and then Yorke ſhall be London.</hi>
+            </p>
+            <p>
+               <hi>And after this, ſhall be a white harveſt of Corne gotten in by women. Then ſhall be in the North, that one woman ſhall ſay unto another, Mother I have ſéen a man to day, and for one man there ſhall be a thouſand women. There ſhall be a man ſitting on Saint</hi> James <hi>Church hill, wéeping his fill. And after that a ſhip come ſayling up the Thames till it come againſt London, and the maſter of the ſhip ſhall wéep, and the marriners, ſhall ask him why he wéepeth, be<g ref="char:EOLhyphen"/>ing he hath made ſo good a voyage-and he ſhall ſay; Oh what a goodly City this was, none in the world comparable to it, and now there is ſcarce left any houſe that can let us have drinke for our money.</hi>
+            </p>
+            <q>
+               <l>Unhappy he that lives to ſee theſe dayes,</l>
+               <l>But happy are the dead, <hi>Shiptons</hi> wife ſayes.</l>
+            </q>
+            <div type="part">
+               <pb n="7" facs="tcp:112025:6"/>
+               <lg>
+                  <head>An ancient Prophecy to be ſeen in Maſter <hi>Harr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es</hi> diſcourſes upon Prophecyes, printed <hi>anno.</hi> 1588. Fathered upon <hi>Merlyn.</hi>
+                  </head>
+                  <l>
+                     <hi>Anglia! te prodit tua gens, quia quaelibet odit:</hi>
+                  </l>
+                  <l>
+                     <hi>Te circumfodit gens Scotica: Gallia rodit:</hi>
+                  </l>
+                  <l>
+                     <hi>Wallia minatur: Hybernicus inſidiatur:</hi>
+                  </l>
+                  <l>
+                     <hi>Ecce repentina validis mors: at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ruina</hi>
+                  </l>
+                  <l>
+                     <hi>Te citò proſternit; nec gens tua talia cernit.</hi>
+                  </l>
+                  <l>
+                     <hi>Pax ſimulata fluet; pax haec, pax falsò probatur,</hi>
+                  </l>
+                  <l>
+                     <hi>Pax clam nam<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ruet, graviorque poena paratur.</hi>
+                  </l>
+               </lg>
+               <p>Enliſhed thus.</p>
+               <lg>
+                  <l>England! thy proper native thee betrayes,</l>
+                  <l>Becauſe all Nations hate thee, and thy wayes;</l>
+                  <l>Scotland doth undermine thee: France doth gnawe:</l>
+                  <l>Wales threats: the Iriſh thee by ſnares doth awe:</l>
+                  <l>Thy braveſt men do on a ſuddain dye,</l>
+                  <l>And thou thy ſelf doth wholly ruin'd lye,</l>
+                  <l>Yet ſeeſt it not, but under fayned peace,</l>
+                  <l>Doſt thine own miſery ſtill more increaſe.</l>
+               </lg>
+               <p>The gloſſe upon the Text.</p>
+               <lg>
+                  <l>Say, gentle Muſe, is this a prophecy?</l>
+                  <l>Or is't a witty, ſtudious, fained lye?</l>
+                  <l>If it be true, What ſtate is England in?</l>
+                  <l>If it be falſe, 'tis high time time to begin</l>
+                  <l>To prove it ſo: nor is't too late as yet,</l>
+                  <l>(Though a true Prophecy) to fruſtrate it.</l>
+                  <l>For Ninivy was thus foretold her end</l>
+                  <l>In forty dayes, yet found a way to ſend</l>
+                  <l>Th' approaching ruine back; and ſo mayeſt thou,</l>
+                  <l>If thou like knee, like heart to heaven bowe;</l>
+                  <l>And then this prophecy do ſtrayght preſent,</l>
+                  <l>To (heavens Vice-Gerent) our high Parliament;</l>
+                  <pb n="8" facs="tcp:112025:7"/>
+                  <l>Where, it may wiſely be diſcuſt, and try'd,</l>
+                  <l>Whether in part it hath been verify'd</l>
+                  <l>As yet; if ſo, then how they may prevent,</l>
+                  <l>The ill not come, but likely conſequent.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Another old Prophecy tranſcribed out of an ancient manuſcript.</head>
+               <lg>
+                  <l>
+                     <hi>Flan: Fran: conſurgent: Hiſpani viribus urgent:</hi>
+                  </l>
+                  <l>
+                     <hi>Scotus vaſtabit: dum Wallicus arma levabit:</hi>
+                  </l>
+                  <l>
+                     <hi>Inter nodoſum mentem,
+<note n="*" place="margin">
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap> pontem.</note> fontemque petroſum,</hi>
+                  </l>
+                  <l>
+                     <hi>Corruet Anglorum gens perfida, fraude ſuorum.</hi>
+                  </l>
+               </lg>
+               <p>Tranſlation.</p>
+               <lg>
+                  <l>Flanders ſhall riſe with France, Spaine fight amaine,</l>
+                  <l>The Scots waſt all, while Brittans arme in vaine.</l>
+                  <l>Between a knotty mount and ſtony ſpring</l>
+                  <l>Falſe England ſhall her men to ſlaughter bring.</l>
+               </lg>
+               <p>Another tranſlation of the ſame.</p>
+               <lg>
+                  <l>Flanders ſhall riſe with France: Spaine powers advance:</l>
+                  <l>The Scots ſhall waſt the land, while Brittans armed ſtand:</l>
+                  <l>'Twixt knotty mountaine, and a ſtony fountaine,</l>
+                  <l>Perfidious Engliſh, ſhall themſelves extinguiſh.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>This following Prophecy was ſhewed by Sir</hi> William Norris <hi>to King</hi> James, <hi>upon the uniting of the two Crownes of England and Scotland under the name of Great Britaine.</hi>
+               </head>
+               <lg>
+                  <l>A Peace ſhall be diſſembled,</l>
+                  <l>That Peace may well be trembled:</l>
+                  <l>That Peace ſhall falſe be proved,</l>
+                  <pb n="9" facs="tcp:112025:7"/>
+                  <l>All Peace ſhall be removed.</l>
+                  <l>For why? A moſt grievous ſight</l>
+                  <l>Shall riſe up right.</l>
+                  <l>Great Mars omnipotent,</l>
+                  <l>He ſhall be vigilant:</l>
+                  <l>His bloody brands of ſteel</l>
+                  <l>To whet, thou ſhalt them feel</l>
+                  <l>So ſore upon thy ſide,</l>
+                  <l>That wo ſhall thee betide;</l>
+                  <l>Nation ſhall riſe with Nation,</l>
+                  <l>And make confederation.</l>
+                  <l>That all Engliſh ſcituation,</l>
+                  <l>Shall be taught by operation,</l>
+                  <l>To read upon the Paſſion.</l>
+                  <l>Flanders ſhall joyne with France,</l>
+                  <l>With bill, ſpeare, gun and lance,</l>
+                  <l>With Almany, and Gaſſogny;</l>
+                  <l>Spaine ſhall eke employ,</l>
+                  <l>His force thee to deſtroy;</l>
+                  <l>Thou ſhalt have the Brittans to annull thee,</l>
+                  <l>The Scots to pluck and pull thee,</l>
+                  <l>England, thou ſhalt be ſure,</l>
+                  <l>Theſe torments to endure.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>An old Scotch Prophecy delivered many yeares ſince by the Biſhop of Roſſe to a great Lady.</head>
+               <lg>
+                  <l>When pride is in price,</l>
+                  <l>And wit is in vice;</l>
+                  <l>When robbery as riſe, as rie in the riſe,</l>
+                  <l>When great men are lawleſſe,</l>
+                  <l>And holy Kirk awleſſe,</l>
+                  <l>Gods body and blood not given the heeding,</l>
+                  <l>And Laicks have the Kirke in leeding.</l>
+                  <l>Then fall ſorrow ſit upon <hi>ſeele.</hi>
+                  </l>
+                  <l>But fall fortune turne her wheele.</l>
+                  <pb n="10" facs="tcp:112025:8"/>
+                  <l>When the yeare of our Lord God is comed and ganne,</l>
+                  <l>One thouſand ſix hundred forty and twayne,</l>
+                  <l>Then fall up what was down,</l>
+                  <l>Then fall <hi>lettith</hi> weare the Crown,
+<note place="margin">i.e. Truth.</note>
+                  </l>
+                  <l>And zeale fall laſt for ever and aye,</l>
+                  <l>Till the Sonne of God take all away.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>To theſe may be added another Prophecy of great antiquity out of our famous Hiſtoriagrapher, <hi>Henricus de Huntingdon,</hi> which before the year of our Lord 1000. foretold thereby that this Kingdom of England (for its manifold wicked<g ref="char:EOLhyphen"/>neſſes) ſhould be conquered by the Normans, and ſhould alſo by the Scots be afterwards brought to a deſerved chaſtizement, &amp;c.</head>
+               <p>He delivers the Prophecy thus.</p>
+               <p>
+                  <q>
+                     <hi>Anno milleſimo incarnatione Dom. &amp;c. Genti Anglorum pre<g ref="char:EOLhyphen"/>dixit quidam vir dei,
+<note place="margin">
+                           <hi>Hen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>. libr. 6. Sectio</hi> 1.</note> quod ex ſcelerum ſuoru<g ref="char:cmbAbbrStroke">̄</g> immanitate, non ſolum quia ſemper caedi &amp; proditioni ſtudebant, verum etiam quia ſemper ebrietati &amp; negligentiae Domus Domini dediti erant, eis inſperatum a Francia adventurum dominium, quod &amp; eorum ex<g ref="char:EOLhyphen"/>cellentiam in eternum deprimeret, &amp; honorem ſine termine reſti<g ref="char:EOLhyphen"/>tutionis eventilaret. Praedixit etiam quod non ea gens ſolum, verum &amp; Scottorum (quos viliſſimos habebant) eis ad emeri<g ref="char:EOLhyphen"/>tam confuſionem dominaretur. Praedixit nihilominùs varium adeo ſaeculum creandum, vt varietas, quae in mentibus hominum latebat, &amp; in actibus patebat, multimoda variatione veſtium &amp; indumentorum deſignaretur.</hi>
+                  </q>
+               </p>
+               <p>The firſt part of this Prophecy was notoriouſly verified in the yeare 1066. when the Normans under the conduct of <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> the Conquerour Invaded and Subdued this land.</p>
+            </div>
+            <div type="part">
+               <head>This is alſo ancient, though common.</head>
+               <lg>
+                  <l>In Germany begins a dance,</l>
+                  <l>Which paſſeth through Italy, Spaine and France;</l>
+                  <l>But England ſhall pay the piper.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="11" facs="tcp:112025:8"/>
+               <head>Another Prophecy very ancient, in old Meeter.</head>
+               <lg>
+                  <l>In that ſame yeare that fully ſhall expire,</l>
+                  <l>The ſixth great wonder of the worlds Empire;</l>
+                  <l>Then Tyders
+<note n="*" place="margin">i.e. <hi>Hen. Ed. Mar. Phil. Eliz.</hi>
+                     </note> HEMPE ſhall end I dare aread,</l>
+                  <l>Then
+<note n="*" place="margin">After Q. <hi>Eli.</hi> K. <hi>James.</hi>
+                     </note> 
+                     <hi>E</hi> ſhall fall, and <hi>I</hi> ſhall ſtand in ſtead:</l>
+                  <l>In that ſame yeare a great plague ſhall raigne,</l>
+                  <l>The which a thouſand dayes ſhall remaine:</l>
+                  <l>At <hi>Maries</hi> Maſſe a Court they hold,</l>
+                  <l>The which in bloody Inke ſhall be inrolled:</l>
+                  <l>There many a plea ſhall paſſe with brawling words,</l>
+                  <l>And ſhort daggers ſhall be better then long ſwords:</l>
+                  <l>On Hunſloes heath ſoon after ſhall be ſeen,</l>
+                  <l>A fierce fought battell by a King I weene:</l>
+                  <l>Of Knights there ſhall be three thouſand there,</l>
+                  <l>Of which there ſhall but ten back again appeare:</l>
+                  <l>There ſhall many a battaile and brawle be,</l>
+                  <l>And then a huge hoſt ſhall paſſe over the Sea,</l>
+                  <l>Concluding a peace: but in this wiſe,</l>
+                  <l>Betwixt two <hi>C. C.</hi> two <hi>L. L.</hi> ſo long ſhall laſt two <hi>I. I.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>Another very ancient Propheſie.</head>
+               <lg>
+                  <l>When the eighth letter of the Chriſtcroſſe rowe eight times is paſt,</l>
+                  <l>And every one at liberty to reaſon as he will,</l>
+                  <l>Then the Church without ſacrifice ſix years ſhall laſt:</l>
+                  <l>Untill the follower of Gods lawes it do fulfill:</l>
+                  <l>But then alas ſoon after it ſhall decay,</l>
+                  <l>By the ſpace of one <hi>Luſtrum,</hi> as ſtories doe ſay:</l>
+                  <l>Then mark the day of the next deſolation,</l>
+                  <l>And count them as they lye in the grewe,</l>
+                  <l>Take <hi>M.</hi> only with its ſignification:</l>
+                  <l>And twice two <hi>C. C.</hi> which is very true:</l>
+                  <l>And from that day as Stories do ſay,</l>
+                  <l>The Sacrifice ſhall laſt for ever and aye.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:112025:9"/>
+               <head>Another.</head>
+               <lg>
+                  <l>Ever ſhall ⚅ be called the firſt of the dice,</l>
+                  <l>When ⚀ ſhall beare up ⚅</l>
+                  <l>Then ſhall England be <hi>clepid</hi> Paradiſe:</l>
+                  <l>When ⚄ and ⚃ be ſet on ſide:</l>
+                  <l>The name of ⚅ ſhall ſpring full wide:</l>
+                  <l>And when ⚃ and ⚁ drive out ⚂</l>
+                  <l>Then may England ſing well away:</l>
+                  <l>Then it is all ſhent,</l>
+                  <l>For then ſhall be another Parliament:</l>
+                  <l>⚅ ſhall up and ⚀ ſhall under,</l>
+                  <l>The Lyon, the Roſe, the Flowerdeluce:</l>
+                  <l>The lock ſhall undoe.</l>
+                  <l>Then ſhall ⚅ beare the price</l>
+                  <l>And ⚀ ſhall help thereto.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>This Prophecy is Fathered upon <hi>Ignatius,</hi> and was long ſince found in St. <hi>Benets</hi> Monaſtery in Norfolk.</head>
+               <lg>
+                  <l>
+                     <hi>When Eighty eight be paſt, then thrive</hi>
+                  </l>
+                  <l>
+                     <hi>Thou maiſt, till forty four or five.</hi>
+                  </l>
+                  <l>
+                     <hi>After the Maide is dead, a Scot</hi>
+                  </l>
+                  <l>
+                     <hi>Shall govern thee: and if a plot</hi>
+                  </l>
+                  <l>
+                     <hi>Prevent him not, ſure then his ſway</hi>
+                  </l>
+                  <l>
+                     <hi>Continue ſhall till many a day.</hi>
+                  </l>
+                  <l>
+                     <hi>The ninth ſhall dye, and the firſt</hi>
+                  </l>
+                  <l>
+                     <hi>Perhaps ſhall reign: but (oh) accurſt</hi>
+                  </l>
+                  <l>
+                     <hi>Shal be the time, when thou ſhalt ſee</hi>
+                  </l>
+                  <l>
+                     <hi>To ſixteen joyned twenty three.</hi>
+                  </l>
+                  <l>
+                     <hi>For then the Eagle ſhall have helpe</hi>
+                  </l>
+                  <l>
+                     <hi>By craft to catch the Lyons whelpe,</hi>
+                  </l>
+                  <l>
+                     <hi>And hurt him ſore; except the ſame</hi>
+                  </l>
+                  <l>
+                     <hi>Be cured by the Maidens name.</hi>
+                  </l>
+                  <l>
+                     <hi>In</hi> July <hi>month of the ſame yeare</hi>
+                  </l>
+                  <l>Saturn <hi>conjoyns with</hi> Jupiter.</l>
+                  <l>
+                     <hi>Perhaps falſe Prophets ſhall ariſe.</hi>
+                  </l>
+                  <l>
+                     <hi>And</hi> Mahomet <hi>ſhall ſhew his prize;</hi>
+                  </l>
+                  <l>
+                     <hi>And ſure much alteration</hi>
+                  </l>
+                  <l>
+                     <hi>Shall happen in Religion:</hi>
+                  </l>
+                  <l>
+                     <hi>Beleeve this truly if then you ſee</hi>
+                  </l>
+                  <l>
+                     <hi>A Spaniard a Proteſtant to be.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
